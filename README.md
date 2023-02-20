@@ -10,7 +10,7 @@ This report was created as a final project for a master's course at NWMSU, Finan
   
 The company I chose was Hostess Brands, Inc. (TWNK), for which I downloaded a few years of quarterly and annual statements from sec.gov. I created a simple dashboard in Excel to to track the annual and quarterly results over time. 
 
-To create visuals, I used pivot tables and pivot charts, slicers, and a timeline. To transform the data into a usable format, I used formulas (ie: vlookup, sumifs, textjoin) and Power Query.
+To create visuals, I used pivot tables, pivot charts, and slicers. To transform the data into a usable format, I used formulas (ie: vlookup, sumifs, textjoin) and Power Query.
 
 Excel Concepts Demonstrated: 
  - Formulas: if, or, sum, iferror, vlookup, indirect
@@ -20,11 +20,8 @@ Excel Concepts Demonstrated:
  - Timeline and slicers
 
 #### Dashboard:
-The Dashboard provides insights into the Hostess Brands, Inc. financial data.  
-  
-After some initial exploratory data analysis, I identified several key metrics that may interest someone who invests in TWNK stock, then set out to answer these questions through the following visuals: 
+After some initial exploratory data analysis, I identified several key metrics that may interest someone who invests in TWNK stock, then set out to answer these questions through the following visuals presented in the dashboard. 
 
-Visuals:
 - Charts:  
     - Net Revenue by Quarter
     - Net Revenue Growth YoY
@@ -32,8 +29,6 @@ Visuals:
     - Cost of Goods Sold
     - Earnings per Class A Share
     - Weighted-Average Shares Outstanding 
-- Slicers:  
-    - Timeline (year, quarter)
 
 ## Development Approach:
 The following steps were taken to create the report:
