@@ -41,7 +41,10 @@ The following steps were taken to create the report:
 6. The charts were incorporated into a dashboard, and were formatted into a cohesive theme.
 7. An analysis of key findings was added to the dashboard.
    
-Logo and images are credited to Hostess Brands, Inc.
+      
+#    
+Logo and images are credited to Hostess Brands, Inc.  
+https://www.hostessbrands.com/  
 
 
 
