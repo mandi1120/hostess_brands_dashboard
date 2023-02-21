@@ -8,7 +8,7 @@ Created 4/23/22
 ## Overview:
 This report was created as a final project for a master's course at NWMSU, Financial Modeling for IT. The assignment: use concepts from the class to analyze a financial dataset.   
   
-The company I chose was Hostess Brands, Inc. (TWNK), for which I downloaded a few years of quarterly and annual statements from sec.gov. I created a simple dashboard in Excel to to track the annual and quarterly results over time. 
+The company I chose was Hostess Brands, Inc. (TWNK), for which I downloaded a few years of quarterly and annual statements from sec.gov. I created a simple dashboard in Excel to track the annual and quarterly results over time. 
 
 To create visuals, I used pivot tables, pivot charts, and slicers. To transform the data into a usable format, I used formulas (ie: vlookup, sumifs, textjoin) and Power Query.
 
