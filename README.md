@@ -10,7 +10,7 @@ This report was created as a final project for a master's course at NWMSU, Finan
   
 The company I chose was Hostess Brands, Inc. (TWNK), for which I downloaded a few years of quarterly and annual statements from sec.gov. I created a simple dashboard in Excel to track the annual and quarterly results over time. 
 
-To create visuals, I used pivot tables, pivot charts, and slicers. To transform the data into a usable format, I used formulas (ie: vlookup, sumifs, textjoin) and Power Query.
+To create visuals, I used pivot tables, pivot charts, and slicers. To transform the data into a usable format, I used formulas and Power Query.
 
 Excel Concepts Demonstrated: 
  - Formulas: if, or, sum, iferror, vlookup, indirect
